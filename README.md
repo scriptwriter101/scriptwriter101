@@ -1,7 +1,7 @@
 # 👋 Hi, I’m scriptwriter101!
 
 🎓 **Student & Developer**  
-💻 **Python Enthusiast | Penetration Testing Fan**
+💻 **Python Enthusiast | Penetration Tester**
 
 ---
 
